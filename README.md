@@ -13,10 +13,11 @@ Sou um amente da tecnologia, gosto de estar em constante evolução e aprimorand
   
   <img width="60" height="60" src="https://cdn.brandfetch.io/idgGlZ6VSa/theme/light/idmY86j34a.svg?c=1bxid64Mup7aczewSAYMX&t=1713194473738" /> &nbsp;&nbsp;&nbsp;
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;&nbsp;
-  <img width="50" height="50" src="https://skillicons.dev/icons?i=rabbitmq" /> &nbsp;&nbsp;&nbsp;
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" /> &nbsp;&nbsp;&nbsp;
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" /> &nbsp;&nbsp;&nbsp;
+  <img width="50" height="50" src="https://skillicons.dev/icons?i=rabbitmq" /> &nbsp;&nbsp;&nbsp;
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" /> &nbsp;&nbsp;&nbsp;
+
 
 </div>
 
